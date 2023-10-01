@@ -4,7 +4,7 @@ Thanks for stopping by and taking a moment to explore my journey and expertise.
 
 ## About Me
 
-  I'm a student styding in St. Gregory's High School & College.
+  I'm a student studying in St. Gregory's High School & College.
 
 ## What am I working on
    1. I'm currently working on - [Orzen-dos](https://github.com/Orcon-Systems-LLC/orzen-dos-v1.0),Which is a dos-type os running on x86 (32-bit) platform

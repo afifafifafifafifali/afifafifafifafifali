@@ -4,7 +4,7 @@ Thanks for stopping by and taking a moment to explore my journey and expertise.
 
 ## About Me
 
-  I'm a student reading in St. Gregory's High School & College.
+  I'm a student styding in St. Gregory's High School & College.
 
 ## What am I working on
    1. I'm currently working on - [Orzen-dos](https://github.com/Orcon-Systems-LLC/orzen-dos-v1.0),Which is a dos-type os running on x86 (32-bit) platform
@@ -12,7 +12,8 @@ Thanks for stopping by and taking a moment to explore my journey and expertise.
     
 ##A poem
 ```
-  Roses are red , My code's a disaster
-  git push --force origin master
+  Roses are red , My code's a disaster.
+. Blueberries are blue, My code's are colder.
+  gcc -sing poem
 
 ```

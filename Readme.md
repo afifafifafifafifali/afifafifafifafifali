@@ -17,3 +17,6 @@ Thanks for stopping by and taking a moment to explore my journey and expertise.
   gcc -sing poem
 
 ```
+
+## Visitors
+  <img  alt='My own shiny badge'  src="https://badge-counter.vercel.app/api/badgecounter?user=afifafifafifafifali&height=60&text_color=%23FFFFFF"/>

@@ -9,6 +9,9 @@ Thanks for stopping by and taking a moment to explore my journey and expertise.
 ## What am I working on
    1. I'm currently working on - [Orzen-dos](https://github.com/Orcon-Systems-LLC/orzen-dos-v1.0),Which is a dos-type os running on x86 (32-bit) platform
    2. I'm started working on my own made Vector robot .
+
+
+![Afif's GitHub stats](https://github-readme-stats.vercel.app/api?username=afifafifafifafifali&show_icons=true&theme=radical)
     
 ## A poem
 ```

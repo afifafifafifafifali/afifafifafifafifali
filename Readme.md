@@ -7,8 +7,8 @@ Thanks for stopping by and taking a moment to explore my journey and expertise.
   I'm a student studying in St. Gregory's High School & College.
 
 ## What am I working on
-   1. I'm currently working on - [Orzen-dos](https://github.com/Orcon-Systems-LLC/orzen-dos-v1.0),Which is a dos-type os running on x86 (32-bit) platform
-   2. I'm started working on my own made Vector robot .
+   1. I'm working on my own 64-bit limine based (formerly grub) Operating system
+   2. I'm working on my own internet (secsurf.rf.gd)
 
 
 ![Afif's GitHub stats](https://github-readme-stats.vercel.app/api?username=afifafifafifafifali&show_icons=true&theme=radical)

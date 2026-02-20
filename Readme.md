@@ -9,3 +9,5 @@ I'm a random guy in the backrooms. Known to everyone by my both physical and vir
 3. MLWarriors : Unmantained Machine Learning Competitions platform. Mostly in PHP. https://mlwarriors.alwaysdata.net/
 
 
+<img width="85%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afifafifafifafifali&theme=tokyonight" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=afifafifafifafifali&theme=tokyo-night&hide_border=true" />
